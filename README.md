@@ -2,6 +2,9 @@
 
 Esta calculadora de pérdida calórica es un programa en C++ diseñado para ayudar a las personas a estimar la cantidad de calorías quemadas durante diferentes actividades físicas. El programa solicita información como género, edad, altura, peso y tiempo de actividad, y utiliza esta información junto con fórmulas específicas para calcular las calorías quemadas para actividades como correr, caminar, nadar, hacer ejercicio en el gimnasio, andar en bicicleta, practicar yoga y boxeo.
 
+![Actividad física](https://github.com/tomepro/M5/blob/main/Demostracion1.png)
+
+
 ### Funcionalidades principales:
 - **Menú de actividades:** Proporciona una lista de actividades físicas disponibles para que el usuario elija.
 - **Datos del usuario:** Solicita al usuario información relevante como género, edad, altura y peso para calcular las calorías quemadas de manera precisa.
