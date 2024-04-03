@@ -1,8 +1,0 @@
-﻿  CalculadoraDeCalorias.cpp
-E:\M5 - C++\Visual Studio\CalculadoraDeCalorias\CalculadoraDeCalorias\CalculadoraDeCalorias\actividades.h(89,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'CalculadoraDeCalorias.cpp')
-  
-E:\M5 - C++\Visual Studio\CalculadoraDeCalorias\CalculadoraDeCalorias\CalculadoraDeCalorias\actividades.h(93,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  (compiling source file 'CalculadoraDeCalorias.cpp')
-  
-  CalculadoraDeCalorias.vcxproj -> E:\M5 - C++\Visual Studio\CalculadoraDeCalorias\CalculadoraDeCalorias\x64\Debug\CalculadoraDeCalorias.exe
