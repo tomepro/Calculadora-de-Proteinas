@@ -18,4 +18,6 @@ Esta calculadora de pérdida calórica es un programa en C++ diseñado para ayud
 4. El programa calculará y mostrará las calorías quemadas.
 5. Opcionalmente, puedes repetir el proceso para calcular las calorías quemadas en otras actividades físicas.
 
+![Actividad física](https://github.com/tomepro/M5/blob/main/Demostracion2.png)
+
 Este programa puede ser útil para aquellas personas que desean monitorear y ajustar su ingesta calórica de acuerdo con su nivel de actividad física, ayudando así en la gestión de la salud y el bienestar.
