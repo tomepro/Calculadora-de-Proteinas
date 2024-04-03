@@ -8,7 +8,7 @@
 
 using namespace std;
 
-// Declaración de las funciones
+// Declaracion de las funciones
 void menu_calculadora();
 void datos_usuario();
 void running();
@@ -19,7 +19,7 @@ void bici();
 void yoga();
 void boxeo();
 
-// Declaración de las variables globales
+// Declarar variables globales
 extern string ejercicios;
 extern int edad;
 extern int altura;
@@ -221,4 +221,4 @@ void boxeo() {
 	cout << "\n\t\t\t          Como hoy as echo (boxeo) durante " << tiempo_actividad << "h, as quemado un total de: " << TMB + calories_base << " calorias";
 }
 
-#endif // ACTIVIDADES_H
+#endif
