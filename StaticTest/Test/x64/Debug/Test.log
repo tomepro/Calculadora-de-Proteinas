@@ -1,4 +1,0 @@
-﻿  Calorias.cpp
-F:\M5 - C++\Visual Studio\StaticTest\Test\Calorias.cpp(64,53): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-F:\M5 - C++\Visual Studio\StaticTest\Test\Calorias.cpp(68,53): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
-  Test.vcxproj -> F:\M5 - C++\Visual Studio\StaticTest\x64\Debug\Test.lib
